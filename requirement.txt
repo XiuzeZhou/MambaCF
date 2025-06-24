@@ -1,0 +1,6 @@
+# python==3.10+cu118
+torch==2.1.2+cu118
+mamba-ssm==2.2.2
+causal_conv1d==1.4.0
+scikit-learn
+scipy
